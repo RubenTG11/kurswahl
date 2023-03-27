@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kurswahl/static/css/main.e42b12df.css",
-    "main.js": "/kurswahl/static/js/main.aab0af05.js",
+    "main.css": "/kurswahl/static/css/main.91797e70.css",
+    "main.js": "/kurswahl/static/js/main.d041ad9d.js",
     "static/js/787.76e95311.chunk.js": "/kurswahl/static/js/787.76e95311.chunk.js",
     "index.html": "/kurswahl/index.html",
-    "main.e42b12df.css.map": "/kurswahl/static/css/main.e42b12df.css.map",
-    "main.aab0af05.js.map": "/kurswahl/static/js/main.aab0af05.js.map",
+    "main.91797e70.css.map": "/kurswahl/static/css/main.91797e70.css.map",
+    "main.d041ad9d.js.map": "/kurswahl/static/js/main.d041ad9d.js.map",
     "787.76e95311.chunk.js.map": "/kurswahl/static/js/787.76e95311.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e42b12df.css",
-    "static/js/main.aab0af05.js"
+    "static/css/main.91797e70.css",
+    "static/js/main.d041ad9d.js"
   ]
 }
